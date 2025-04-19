@@ -71,8 +71,8 @@
             </div>
             <div class="footer-section contact">
                 <h3>Contact Us</h3>
-                <p><i class="fas fa-envelope"></i> contact@shopeasy.com</p>
-                <p><i class="fas fa-phone"></i> +91 9876543210</p>
+                <p><em class="fas fa-envelope"></em> contact@shopeasy.com</p>
+                <p><em class="fas fa-phone"></em> +91 9876543210</p>
             </div>
         </div>
         <div class="footer-bottom">
