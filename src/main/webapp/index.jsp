@@ -21,7 +21,7 @@
             </ul>
         </nav>
         <div class="cart-icon">
-            <i class="fas fa-shopping-cart"></i>
+            <em class="fas fa-shopping-cart"></em>
             <span class="cart-count">0</span>
         </div>
     </header>
@@ -73,15 +73,15 @@
             </div>
             <div class="footer-section contact" id="contact">
                 <h3>Contact Us</h3>
-                <p><i class="fas fa-phone"></i> (123) 456-7890</p>
-                <p><i class="fas fa-envelope"></i> info@foodexpress.com</p>
+                <p><em class="fas fa-phone"></em> (123) 456-7890</p>
+                <p><em class="fas fa-envelope"></em> info@foodexpress.com</p>
             </div>
             <div class="footer-section social">
                 <h3>Follow Us</h3>
                 <div class="social-icons">
-                    <a href="#"><i class="fab fa-facebook"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><em class="fab fa-facebook"></em></a>
+                    <a href="#"><em class="fab fa-instagram"></em></a>
+                    <a href="#"><em class="fab fa-twitter"></em></a>
                 </div>
             </div>
         </div>
