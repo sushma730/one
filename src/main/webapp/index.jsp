@@ -29,7 +29,7 @@
     <main>
         <section class="hero" id="home">
             <div class="hero-content">
-                <h2>Delicious Food Delivered To Your Doorstep</h2>
+                <h2>Delicious Food </h2>
                 <p>Order from our wide selection of mouth-watering dishes</p>
                 <a href="#menu" class="btn">Order Now</a>
             </div>
